@@ -1,4 +1,4 @@
-# Craft + Storybook bootstrap
+# Craft CMS + Storybook bootstrap
 
 _A quick bootstrap for Storybook, for use alongside a Craft install._
 
