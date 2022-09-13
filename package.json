@@ -1,0 +1,28 @@
+{
+  "name": "craft debug",
+  "version": "1.0.0",
+  "description": "Debug Craft website",
+  "author": {
+    "name": "Tom Kiss"
+  },
+  "private": true,
+  "scripts": {
+    "build-storybook": "build-storybook",
+    "storybook": "start-storybook"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "@storybook/addon-a11y": "^6.5.11",
+    "@storybook/addon-actions": "^6.5.11",
+    "@storybook/addon-essentials": "^6.5.11",
+    "@storybook/addon-links": "^6.5.11",
+    "@storybook/addon-postcss": "^2.0.0",
+    "@storybook/builder-webpack5": "^6.5.11",
+    "@storybook/html": "^6.5.11",
+    "@storybook/manager-webpack5": "^6.5.11",
+    "react-dom": "^18.2.0",
+    "twig": "^1.15.4",
+    "twigjs-loader": "^1.0.3"
+  }
+}
